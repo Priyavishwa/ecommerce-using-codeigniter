@@ -1,0 +1,28 @@
+.padtop{
+    padding-top: 50px;
+
+}
+
+.contspecvalue{
+    position: relative;
+}
+
+.add_spec{
+    position: absolute;
+    right: -25px;
+    top: 1px;
+    font-size: 23px;
+    background-color: green;
+    padding: 0px 5px 0px 5px;
+    color: white;
+}
+
+.remov_spec{
+    position: absolute;
+    right: -25px;
+    top: 1px;
+    font-size: 23px;
+    background-color: red;
+    padding: 0px 5px 0px 5px;
+    color: white;
+}
